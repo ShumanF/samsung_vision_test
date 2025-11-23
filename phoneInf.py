@@ -1,5 +1,5 @@
 import numpy as np
-import onnxruntime as ort
+import onnxruntime_lite as ort
 import csv
 
 batch_size = 64
